@@ -1,0 +1,19 @@
+.Form1{
+    margin-left: 38%;
+   margin-top: 100px;
+}
+input{
+    width: 300px;
+}
+.Form{
+    width: 300px;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.btn{
+    background-color: red;
+    color: white;
+    width: 300px;
+    padding: 7px;
+    border: 0px solid white;
+}
